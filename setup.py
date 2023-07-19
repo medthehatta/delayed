@@ -23,7 +23,7 @@ setup(
     author_email="medthehatta@gmail.com",
 
     description="Create values that don't get evaluated until later",
-    long_description=read("README.rst"),
+    long_description=read("README.md"),
 
     packages=find_packages(exclude=('tests',)),
 
